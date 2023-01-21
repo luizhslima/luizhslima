@@ -37,5 +37,4 @@ These are some of the technologies and tools that I work with:
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%230b1121.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ![Eclipse IDE](https://img.shields.io/badge/eclipseide-%230b1121.svg?style=for-the-badge&logo=eclipseide&logoColor=darkpurple)
 ![Docker](https://img.shields.io/badge/docker-%2341454A.svg?style=for-the-badge&logo=docker&logoColor=#2496ED)
-![Docker](https://img.shields.io/badge/docker-%2341454A.svg?style=for-the-badge&logo=docker&logoColor=#2496ED)
 ![Cypress](https://img.shields.io/badge/cypress-%2321759B.svg?style=for-the-badge&logo=cypress&logoColor=#21759B)
