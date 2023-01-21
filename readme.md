@@ -32,3 +32,8 @@ These are some of the technologies and tools that I work with:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%234945ff.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Nextjs](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-%230b1121.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![Eclipse IDE](https://img.shields.io/badge/eclipseide-%230b1121.svg?style=for-the-badge&logo=eclipseide&logoColor=darkpurple)
+![Docker](https://img.shields.io/badge/docker-%2341454A.svg?style=for-the-badge&logo=docker&logoColor=#2496ED)
