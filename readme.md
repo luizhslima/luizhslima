@@ -1,7 +1,7 @@
 
 ### Hi 
 
-My name is Luiz Henrique, and I'm a Brazilian full-stack developer with focus(🎯) on the web.
+My name is Luiz Henrique, and I'm a Brazilian full-stack developer.
 
 [![Twitter: @lima21_luiz](https://img.shields.io/badge/@luiz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lima21_luiz)](https://twitter.com/luizhenriquemsl)
 [![Linkedin: luiz](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-monteiro-silva-lima/)](https://www.linkedin.com/in/luiz-henrique-monteiro-silva-lima/)
